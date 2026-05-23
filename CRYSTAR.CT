@@ -27,6 +27,20 @@
       </Offsets>
     </CheatEntry>
     <CheatEntry>
+      <ID>150</ID>
+      <Description>"泪水槽"</Description>
+      <ShowAsSigned>0</ShowAsSigned>
+      <VariableType>Float</VariableType>
+      <Address>"GameAssembly.dll"+00D8FA98</Address>
+      <Offsets>
+        <Offset>74</Offset>
+        <Offset>170</Offset>
+        <Offset>B8</Offset>
+        <Offset>0</Offset>
+        <Offset>B8</Offset>
+      </Offsets>
+    </CheatEntry>
+    <CheatEntry>
       <ID>0</ID>
       <Description>"人物属性（需要锁定生效）"</Description>
       <Options moManualExpandCollapse="1"/>
@@ -362,16 +376,16 @@
               </Offsets>
             </CheatEntry>
             <CheatEntry>
-              <ID>115</ID>
+              <ID>151</ID>
               <Description>"运气"</Description>
               <VariableType>4 Bytes</VariableType>
-              <Address>"GameAssembly.dll"+00E18F58</Address>
+              <Address>"GameAssembly.dll"+00E4E988</Address>
               <Offsets>
-                <Offset>CF0</Offset>
-                <Offset>30</Offset>
-                <Offset>1C8</Offset>
-                <Offset>90</Offset>
-                <Offset>7D8</Offset>
+                <Offset>C00</Offset>
+                <Offset>28</Offset>
+                <Offset>100</Offset>
+                <Offset>C0</Offset>
+                <Offset>210</Offset>
               </Offsets>
             </CheatEntry>
           </CheatEntries>
