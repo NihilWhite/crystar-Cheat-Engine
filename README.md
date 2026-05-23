@@ -11,4 +11,5 @@ Since I know next to nothing about assembly, this table only has the most basic 
 
 If your language is English, give this table to an AI and tell it to open it in text mode, then translate the Chinese characters inside into English — keeping in mind that some of the Chinese characters are abbreviations of game-specific terms
 
-<img width="779" height="389" alt="屏幕截图 2026-05-23 234914" src="https://github.com/user-attachments/assets/1d5b2883-d878-4c53-b928-d4b4d772b557" />
+<img width="752" height="390" alt="image" src="https://github.com/user-attachments/assets/0c478fae-986b-488d-8526-297901290dba" />
+
