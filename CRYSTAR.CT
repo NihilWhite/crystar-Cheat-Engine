@@ -78,16 +78,16 @@
               </Offsets>
             </CheatEntry>
             <CheatEntry>
-              <ID>5</ID>
+              <ID>149</ID>
               <Description>"物防"</Description>
               <VariableType>4 Bytes</VariableType>
-              <Address>"GameAssembly.dll"+00D993F8</Address>
+              <Address>"GameAssembly.dll"+00E4ED68</Address>
               <Offsets>
-                <Offset>194</Offset>
-                <Offset>170</Offset>
-                <Offset>140</Offset>
-                <Offset>0</Offset>
-                <Offset>B8</Offset>
+                <Offset>454</Offset>
+                <Offset>18</Offset>
+                <Offset>138</Offset>
+                <Offset>48</Offset>
+                <Offset>210</Offset>
               </Offsets>
             </CheatEntry>
             <CheatEntry>
@@ -489,67 +489,107 @@
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>105</ID>
+          <ID>135</ID>
           <Description>"听"</Description>
           <VariableType>4 Bytes</VariableType>
-          <Address>"GameAssembly.dll"+00E49DE0</Address>
+          <Address>"GameAssembly.dll"+00E19CD8</Address>
           <Offsets>
-            <Offset>17C</Offset>
-            <Offset>258</Offset>
-            <Offset>28</Offset>
-            <Offset>A0</Offset>
-            <Offset>170</Offset>
+            <Offset>248</Offset>
+            <Offset>F8</Offset>
+            <Offset>178</Offset>
+            <Offset>568</Offset>
+            <Offset>B8</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>96</ID>
+          <ID>136</ID>
           <Description>"嗅"</Description>
           <VariableType>4 Bytes</VariableType>
-          <Address>"GameAssembly.dll"+00F38930</Address>
+          <Address>"GameAssembly.dll"+00E09D30</Address>
           <Offsets>
-            <Offset>DC</Offset>
-            <Offset>F8</Offset>
-            <Offset>100</Offset>
-            <Offset>10</Offset>
-            <Offset>1E0</Offset>
+            <Offset>B8</Offset>
+            <Offset>D8</Offset>
+            <Offset>18</Offset>
+            <Offset>270</Offset>
+            <Offset>CA0</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>97</ID>
+          <ID>148</ID>
           <Description>"味"</Description>
           <VariableType>4 Bytes</VariableType>
-          <Address>"GameAssembly.dll"+00F38930</Address>
+          <Address>"GameAssembly.dll"+00E19CD8</Address>
           <Offsets>
-            <Offset>8C</Offset>
-            <Offset>F8</Offset>
-            <Offset>100</Offset>
-            <Offset>10</Offset>
-            <Offset>1E0</Offset>
+            <Offset>5B8</Offset>
+            <Offset>180</Offset>
+            <Offset>178</Offset>
+            <Offset>568</Offset>
+            <Offset>B8</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>106</ID>
+          <ID>143</ID>
           <Description>"触"</Description>
           <VariableType>4 Bytes</VariableType>
-          <Address>"GameAssembly.dll"+00F3AE50</Address>
+          <Address>"GameAssembly.dll"+00E19CD8</Address>
           <Offsets>
-            <Offset>3C</Offset>
-            <Offset>460</Offset>
-            <Offset>10</Offset>
-            <Offset>1A0</Offset>
+            <Offset>18</Offset>
+            <Offset>F8</Offset>
+            <Offset>178</Offset>
+            <Offset>568</Offset>
+            <Offset>B8</Offset>
           </Offsets>
         </CheatEntry>
         <CheatEntry>
-          <ID>100</ID>
+          <ID>147</ID>
           <Description>"意"</Description>
           <VariableType>4 Bytes</VariableType>
-          <Address>"GameAssembly.dll"+00F38920</Address>
+          <Address>"GameAssembly.dll"+00E19CD8</Address>
           <Offsets>
-            <Offset>3FC</Offset>
-            <Offset>28</Offset>
-            <Offset>10</Offset>
-            <Offset>80</Offset>
-            <Offset>5B0</Offset>
+            <Offset>478</Offset>
+            <Offset>170</Offset>
+            <Offset>178</Offset>
+            <Offset>568</Offset>
+            <Offset>B8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>144</ID>
+          <Description>"末那"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameAssembly.dll"+00E19CD8</Address>
+          <Offsets>
+            <Offset>68</Offset>
+            <Offset>110</Offset>
+            <Offset>178</Offset>
+            <Offset>568</Offset>
+            <Offset>B8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>145</ID>
+          <Description>"啊赖那"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameAssembly.dll"+00E19CD8</Address>
+          <Offsets>
+            <Offset>478</Offset>
+            <Offset>180</Offset>
+            <Offset>178</Offset>
+            <Offset>568</Offset>
+            <Offset>B8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>146</ID>
+          <Description>"虚"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"GameAssembly.dll"+00E19CD8</Address>
+          <Offsets>
+            <Offset>428</Offset>
+            <Offset>180</Offset>
+            <Offset>178</Offset>
+            <Offset>568</Offset>
+            <Offset>B8</Offset>
           </Offsets>
         </CheatEntry>
       </CheatEntries>
